@@ -1,0 +1,33 @@
+    #center-box{
+        width: 1000px;
+        height: 220px;
+        background-color: #190080;
+        margin: 0px auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #center-item{
+        width: 80px;
+        height: 80px;
+        background-color: #fae4b6;
+    }
+    #Navbar{
+        margin: 0px auto;
+        width: 1000px;
+        height: 80px;
+        background-color: rgb(137, 168, 235);
+        display: flex;
+        justify-content: center;
+        justify-content: space-between;
+        align-items: center;
+        color: white;
+    }
+    li{
+        display: inline;
+    }
+    a{
+        color: white;
+        text-decoration-line: none;
+        padding: 25px;
+    }
